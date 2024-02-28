@@ -29,12 +29,17 @@ export const Projects = () => {
             <Text fontWeight="bold">THIS PROJECT</Text>
             <Text fontSize="12">React, Chakra UI, FormSpree</Text>
             <Flex justify="flex-end" mt="12">
-              <IconButton
-                ml={2}
-                icon={<FaGithub />}
-                isRound="true"
-                title="View code"
-              ></IconButton>
+              <Link
+                target="_blank"
+                href="https://github.com/mpawelec01/portfolio-react"
+              >
+                <IconButton
+                  ml={2}
+                  icon={<FaGithub />}
+                  isRound="true"
+                  title="View code"
+                ></IconButton>
+              </Link>
             </Flex>
           </Box>
         </Box>
