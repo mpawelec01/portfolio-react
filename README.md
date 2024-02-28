@@ -1,6 +1,6 @@
 # CV & Portfolio React Project
 
-![desktop-preview](desktop-preview.png)
+![desktop-preview](desktop-preview.jpg)
 
 ## Styled with Chakra UI
 
